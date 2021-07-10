@@ -8,7 +8,7 @@
 `https://bot.keko.dev/api.php?key={KEY}`
 
 
-  --  **Response**
+ **Response**
 
 - true : `{"ok":true,"chat_id":"775392974","bot_id":"1220697355","bot_username":"TMOLbbot","coin":"775223160"}`
 
