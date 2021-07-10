@@ -20,7 +20,7 @@ function spinner_keko(id) {
           </div><br><br><h3>Loading...</h3></center>`;
 }
 function get_keko() {
-    $.post("api.php", function (data) {
+    $.post("https://bot.keko.dev/api.php", function (data) {
         if (data) {
             var keko = JSON.parse(data);
             if (keko.ok) {
@@ -57,7 +57,7 @@ function get_keko() {
 get_keko();
 function get_keko2(id) {
     spinner_keko("content");
-    $.post("api.php?c=" + id, function (data) {
+    $.post("https://bot.keko.dev/api.php?c=" + id, function (data) {
         if (data) {
             var keko = JSON.parse(data);
             if (keko.ok) {
