@@ -36,7 +36,7 @@ if (!isset($bot_id)) {
 
         <div class="fixed-bottom endwebsite">
             <a href="tg://resolve?domain=MkFrBot">
-                powered by <img src="Echo png.png" width="35" height="33" class="img-responsive d-inline-block align-top" alt=""> <strong> Telegram Bots</strong><i class="tgme_icon_arrow"></i>
+                powered by <img src="https://bot.keko.dev/Echo png.png" width="35" height="33" class="img-responsive d-inline-block align-top" alt=""> <strong> Telegram Bots</strong><i class="tgme_icon_arrow"></i>
             </a>
         </div>
         </center>
