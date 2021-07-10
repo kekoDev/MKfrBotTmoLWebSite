@@ -8,11 +8,11 @@
 `https://bot.keko.dev/api.php?key={KEY}`
 
 
- **Response**
-
-- true : `{"ok":true,"chat_id":"775392974","bot_id":"1220697355","bot_username":"TMOLbbot","coin":"775223160"}`
+ **Response** : [
+ - true : `{"ok":true,"chat_id":"775392974","bot_id":"1220697355","bot_username":"TMOLbbot","coin":"775223160"}`
 
 - false : `{"ok":false}`
+ ]
 
 2. لعرض قناة او مجموعة او لتخطي قناة او مجموعة : `https://bot.keko.dev/api.php`
 
