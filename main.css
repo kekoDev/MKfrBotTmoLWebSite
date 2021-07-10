@@ -1,0 +1,63 @@
+html , body {
+    background:white;
+    border: 1px solid white
+}
+.keko_home {
+    border-radius: 3%;
+    background:#f8f9fa;
+    border: 1px solid #27a7e5;
+    padding: 1% 10%;
+    width: 40%;
+
+}
+nav {
+    border-bottom: 1px solid #27a7e5;
+}
+#error{
+    color: red;
+}
+.btn-keko {
+  letter-spacing: 1px;
+  line-height: 15px;
+  transition: all 0.3s ease 0s;
+  background-color: #32afed;
+}
+.dark-mode {
+	background-color: black;
+	color: white; 
+  }
+.keko_in{
+    margin: 10% 1%;
+    width: 30%;
+    border-radius: 10px;
+
+}
+a.tgme_head_dl_button:hover, a.tgme_head_dl_button:active {
+	color: #FFF;
+	background: #32afed;
+	text-decoration: none;
+}
+a.tgme_head_dl_button {
+	text-align: left;
+	-webkit-box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.15);
+	-moz-box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.15);
+	box-shadow: inset 0px 1px 3px 0px rgba(0,0,0,0.15);
+}
+a.tgme_head_dl_button {
+	display: block;
+	font-size: 16px;
+	line-height: 100%;
+	color: #FFF;
+	background: #32afed;
+	padding: 2px 15px 0 16px;
+	height: 45px;
+	line-height: 43px;
+	text-align: center;
+}
+#content {
+    padding: 0% 10%;
+}
+.endwebsite{
+    padding: 3% 0px;    
+    color: white;
+}
