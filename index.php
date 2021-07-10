@@ -38,4 +38,4 @@ if (isset($_GET["t"]) and !empty($_GET["t"]) and preg_match("/^([a-f0-9]{64})$/"
     setcookie('key', false);
     exit(0);
 }
-require_once "honekeko.php";
+require_once "home.php";
